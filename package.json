@@ -1,6 +1,7 @@
 {
-	"author": "ddstorm",
 	"name": "fcc-learn-npm-package-json",
+	"author": "ddstorm",
+	"description": "Freecodecamp backend course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
