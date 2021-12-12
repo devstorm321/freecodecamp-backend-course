@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "ddstorm",
 	"description": "Freecodecamp backend course",
-	"keywords": [ "freecodecamp", "backend", "course" ],
+	"keywords": [ "freecodecamp", "backend", "course"],
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
